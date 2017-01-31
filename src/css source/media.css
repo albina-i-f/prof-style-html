@@ -1,0 +1,464 @@
+@media (max-width: 1800px) {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue > li.dropdown > a {
+		width: 76%;
+	}
+}
+
+@media (max-width: 1680px) {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Advantages --------- */
+	.advantage-heading {
+		line-height: 1.3;
+	}
+}
+
+@media (max-width: 1620px) {
+	/* --------------------- Content ------------------- */
+	.product h3 {
+		top: -10px;
+	}
+
+	.to-basket {
+		bottom: 10px;
+	}
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue > li.dropdown > a {
+		width: 81%;
+	}
+	/* --------- Right sidebar --------- */
+	/* ---------- New products ---------- */
+	.sidebar-right .to-basket {
+		right: -5%;
+		width: 50%;
+	}
+	/* --------- Promotions --------- */
+	.promotions h2 {
+		line-height: 1.3;
+	}
+}
+
+@media (max-width: 1525px) {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue li > a {
+		font-size: .9em;
+	}
+
+	.catalogue > li.dropdown > a {
+		width: 76%;
+	}
+}
+
+@media (max-width: 1450px) {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue > li.dropdown > a {
+		width: 81%;
+	}
+}
+
+@media (max-width: 1375px) {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue > li.dropdown > a {
+		width: 85%;
+	}
+}
+
+@media (max-width: 1320px) {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue li > a {
+		font-size: .85em;
+	}
+}
+
+@media (max-width: 1245px) {
+	/* --------------------- Slider ------------------- */
+	.slider-menu .category-description {
+		right: -10%;
+		width: 105%;
+	}
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue li > a {
+		font-size: .8em;
+	}
+	/* --------- Advantages --------- */
+	.advantage-heading {
+		font-size: .9em;
+	}
+	.advantages {
+		font-size: .9em;
+	}
+}
+
+
+@media (max-width: 1190px) {
+
+	h3 {
+		font-size: .9em;
+	}
+	/* --------------------- Slider ------------------- */
+	.flex-prev {
+		left: 14%;
+	}
+
+	.flex-next {
+		right: 14%;
+	}
+	/* --------------------- Content ------------------- */
+	.to-basket {
+		bottom: -5px;
+		right: -1%;
+		width: 50%;
+	}
+
+	.product .lead {
+		font-size: 1em;
+		line-height: 2;
+	}
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue li > a {
+		font-size: .75em;
+	}
+
+	.catalogue > li.dropdown > a {
+		width: 83%;
+	}
+	/* --------- Advantages --------- */
+	.advantage-heading {
+		font-size: .8em;
+	}
+
+	.advantages {
+		font-size: .8em;
+	}
+	/* --------- Right sidebar --------- */	
+	/* ---------- New products ---------- */
+	.sidebar-right .product {
+		margin-bottom: 40px;
+	}
+	.sidebar-right .to-basket {
+		right: -9%;
+		width: 55%;
+	}
+}
+
+@media (max-width: 1150px) {
+	/* --------------------- Slider ------------------- */
+	.flex-prev {
+		left: 8%;
+	}
+
+	.flex-next {
+		right: 8%;
+	}
+	/* --------- Content --------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue > li.dropdown > a {
+		width: 84%;
+	}
+}
+
+@media (max-width: 1120px)  {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue li > a {
+		font-size: .7em;
+	}
+
+	.catalogue > li.dropdown > a {
+		width: 82%;
+	}
+	/* --------- Advantages --------- */
+	.advantage-heading {
+		font-size: .75em;
+	}
+	.advantages {
+		font-size: .75em;
+	}
+}
+
+@media (max-width: 1060px)  {
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	/* --------- Catalogue --------- */
+	.catalogue li > a {
+		font-size: .65em;
+	}
+
+	.catalogue > li.dropdown > a {
+		width: 80.9%;
+	}
+	/* --------- Advantages --------- */
+	.advantage-heading {
+		font-size: .7em;
+	}
+	.advantages {
+		font-size: .7em;
+	}
+}
+
+@media (max-width: 991px) {
+	/* --------------------- Header ------------------- */
+	.container-for-header,
+	header {
+		height: 121px;
+	}
+
+	.header-wrap {
+		height: 105px;
+		width: 98%;
+	}
+
+	header .phone {
+		display: none;
+	}
+
+	header .phone-call {
+		display: block;
+	}
+
+	header .search-form {
+		float: none;
+		margin: 0;
+		position: absolute;
+		right: 57px;
+		top: 20px;
+		width: 0;
+	}
+
+	header .search-icon {
+		display: block;
+	}
+	
+	/* ---------- Navigation --------- */
+	.navigation {
+		display: none;
+	}
+
+	header .navigation {
+		background-color: #fff;
+		border: 1px solid #fa0000;
+		line-height: 2;
+		margin: 0;
+		max-height: calc(100vh - 58px);
+		overflow-y: auto;
+		position: absolute;
+		padding: 0;
+		right: 20px;
+		top: 50px;
+		width: 80%;
+		z-index: 10;
+	}
+
+	header .navigation li {
+		display: block;
+		padding: 0;
+		text-align: left;
+	}
+
+	header .navigation li:hover,
+	.navigation li:focus,
+	.navigation li:active {
+		background: #fa0000;
+	}
+
+	header .navigation > li + li {
+		border-top: 1px solid #fa0000;
+	}
+
+	header .navigation a {
+		display: block;
+		padding: 4px 10%;
+		width: 80%;
+	}
+
+	header .navigation > li > a {
+		font-size: 1.5em;
+	}
+
+	header .navigation .dropdown-menu {
+		background-color: #fff;
+		border-top: 1px solid #fa0000;
+		padding: 0;
+		position: static;
+		width: 100%;
+	}
+	
+	header .nav-toggle {
+		display: block;
+	}
+	/* ---------- Social ---------- */
+	header .social {
+		position: absolute;
+		bottom: 20px;
+		right: 20px;
+	}
+	/* ---------- Basket ---------- */
+	header .basket a {
+		width: 100%;
+	}
+	header .basket .text {
+		display: none;
+	}
+	/* --------------------- Slider ------------------- */
+	.slider-menu {
+		display: none;
+	}
+
+	.flex-prev {
+		left: 10%;
+	}
+
+	.flex-next {
+		right: 10%;
+	}
+	/* --------------------- Content ------------------- */
+	/* --------- Left sidebar --------- */
+	.sidebar-left {
+		overflow: visible;
+		width: 0;
+	}
+
+	.sidebar-left h2 {
+		display: none;
+	}
+
+	.catalogue {
+		bottom: 0;
+		left: -263px;
+		margin: 0;
+		max-height: 100%;
+		overflow-y: auto;
+		position: fixed;
+		width: 263px;
+		z-index: 20;
+	}
+
+	.catalogue li > a {
+		font-size: 1em;
+	}
+
+	.catalogue-toggle {
+		display: block;
+	}
+
+	.advantages {
+		display: none;
+	}
+	/* --------- Main content --------- */
+	.main-content {
+		padding-left: 0;
+		padding-right: 0;
+		width: 100%;
+	}
+	/* --------- Offers --------- */
+	.offers-wrap {
+		width: 622px;
+	}
+
+	.offers-wrap .product {
+		width: 267px;
+	}
+
+	.offers .product h3 {
+		top: 0;
+	}
+
+	.offers .product {
+		margin-bottom: 20px;
+	}
+
+	.offers-wrap .product .to-basket {
+		bottom: 20px;
+	}
+	/* --------- Right sidebar --------- */
+	.sidebar-right {
+		display: none;
+	}		
+	/* --------- Footer --------- */
+	footer .navigation {
+		display: block;
+		padding-bottom: 0;
+	}
+
+	footer .navigation > li {
+		margin-bottom: 15px;
+	}
+}
+
+@media (max-width: 767px) {
+	/* --------- Header --------- */
+	header .logo {
+		width: 29%;
+	}
+	/* --------- Slider --------- */
+	.flex-prev,
+	.flex-next {
+		width: 35px;
+	}
+
+	.flex-prev {
+		left: 15%;
+	}
+
+	.flex-next {
+		right: 15%;
+	}
+	/* --------- Offers --------- */
+	.offers-wrap {
+		width: 311px;
+	}
+	/* ---------- Footer navigation --------- */
+	footer .navigation {
+		margin: 15px auto 0;
+		width: 300px;
+	}
+}
+
+@media (max-width: 450px) {
+	/* --------- Header --------- */
+	header .logo {
+		width: 50%;
+	}
+	/*---------- Slider --------*/
+	.flex-prev,
+	.flex-next {
+		bottom: 0;
+	}
+	/*---------- Main Content ---------*/
+	.description,
+	.news {
+		padding-left: 15px;
+	}
+
+	.offers h2 {
+		line-height: 1.2;
+	}
+
+	.offers-wrap {
+		width: 290px;
+	}
+}
+
+@media (max-width: 320px) {
+	/*---------- Left-sidebar ---------*/
+	.catalogue li > a {
+		font-size: .9em;
+	}
+}
